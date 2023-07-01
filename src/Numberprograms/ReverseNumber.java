@@ -1,11 +1,8 @@
 package Numberprograms;
-import java.util.*;
 public class ReverseNumber {
 public static void main(String[] args) {
-	Scanner so=new Scanner(System.in);
-	int num,rev=0,r=0;
-	System.out.println("Enter any number");
-	num=so.nextInt();
+	
+	int num=45678,rev=0,r=0;
 	while(num!=0)
 	{
 		r=num%10;
