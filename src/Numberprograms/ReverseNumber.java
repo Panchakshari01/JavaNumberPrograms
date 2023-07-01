@@ -2,7 +2,7 @@ package Numberprograms;
 public class ReverseNumber {
 public static void main(String[] args) {
 	
-	int num=45676,rev=0,r=0;
+	int num=46578,rev=0,r=0;
 	while(num!=0)
 	{
 		r=num%10;
